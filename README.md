@@ -5,5 +5,5 @@ Trabajo sobre PCA y distintos tipos de Clustering (Jerárquico y no Jerárquico)
 
 ## Contenidos del Repositorio
 - [Memoria](Adriana_Acero.pdf): Documento completo de la memoria.
-- [Memoria](notebook.ipynb): Scripts de análisis y código fuente.
+- [Script](notebook.ipynb): Jupyter Notebook de Python con el análisis y código fuente.
 - [Datos](penguins_clean.csv): Conjunto de datos analizados.
