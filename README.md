@@ -1,4 +1,4 @@
-# Análisis de Componentes Principales y Clústering
+# Análisis de Componentes Principales y Clustering
 
 ## Descripción
 Trabajo sobre PCA y distintos tipos de Clustering (Jerárquico y no Jerárquico) realizado para el Máster de Big Data, Data Science e Inteligencia Artificial de la Universidad Complutense de Madrid.
